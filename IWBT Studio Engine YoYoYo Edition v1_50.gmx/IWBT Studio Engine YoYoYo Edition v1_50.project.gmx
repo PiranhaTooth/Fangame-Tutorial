@@ -290,6 +290,7 @@
       <object>objects\objBossIndicator</object>
       <object>objects\objGameClear</object>
     </objects>
+    <object>objects\objBackground</object>
     <object>objects\objCoin</object>
     <objects name="Fuzzy298">
       <object>objects\objFuzzy298Coin</object>
