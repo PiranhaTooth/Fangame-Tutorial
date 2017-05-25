@@ -114,6 +114,9 @@
       <sprite>sprites\sprSecretItem</sprite>
       <sprite>sprites\sprBossItem</sprite>
     </sprites>
+    <sprites name="Fuzzy298">
+      <sprite>sprites\sprFuzzy298Coin</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\bAllTiles</background>
@@ -288,6 +291,9 @@
       <object>objects\objGameClear</object>
     </objects>
     <object>objects\objCoin</object>
+    <objects name="Fuzzy298">
+      <object>objects\objFuzzy298Coin</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <rooms name="init">
